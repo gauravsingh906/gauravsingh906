@@ -21,7 +21,7 @@ I am Gaurav, a student and tech enthusiast with a passion for software developme
 
  -  🔭 I’m currently working on something cool 😉
 
-- 👯 I’m looking forward to collaborate on NextJs projects.
+- 👯 I’m looking forward to collaborate on React,Next-Js projects.
 
 - 🌱 Learning about Computer Vision and Devops stuff
 
@@ -376,6 +376,6 @@ I am Gaurav, a student and tech enthusiast with a passion for software developme
 
 
 -----
-Credits: [Al-Amin](https://github.com/gauravsingh906)
+Credits: [gaurav](https://github.com/gauravsingh906)
 
 Last Edited on: 04/07/2024
